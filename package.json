@@ -20,6 +20,7 @@
         "lodash": "^4.17.4"
     },
     "dependencies": {
-        "eonasdan-bootstrap-datetimepicker": "^4.17.47"
+        "eonasdan-bootstrap-datetimepicker": "^4.17.47",
+        "font-awesome": "^4.7.0"
     }
 }
